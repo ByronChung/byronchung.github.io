@@ -6,14 +6,13 @@ title: Byron Chung
 logo:
 author: themefisher
 description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
+email: bholdenchung@gmail.com
+phone: +1 647 710 9949
 address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+copyright: Copyright &copy; 2022 Byron Chung 
 
 menu:
   - { name: About, link: "/about" }
-  - { name: Blog, link: "/blog" }
   - { name: Portfolio, link: "/portfolio" }
   - { name: Contact, link: "/contact" }
 
@@ -36,7 +35,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! I’m <br> Byron <br> Software Developer
 
 social:
   - { icon: "ti-facebook", link: "#" }
