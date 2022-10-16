@@ -8,8 +8,8 @@ author: themefisher
 description: this is meta description
 email: bholdenchung@gmail.com
 phone: +1 647 710 9949
-address: 
-copyright: Copyright &copy; 2022 Byron Chung [GitHub](https://github.com/byronchung)
+address: [GitHub](https://github.com/byronchung)
+copyright: Copyright &copy; 2022 Byron Chung 
 
 menu:
   - { name: About, link: "/about" }
