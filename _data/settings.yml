@@ -88,24 +88,18 @@ team:
 experience-title: Experience
 experience:
   - {
-      name: Junior UX Designer,
+      name: Software Developer Intern,
       icon: "icon-1.png",
-      date: "Jan 2007 - Feb 2009",
-      organization: "WEBEX",
+      date: "May 2022 - Aug. 2022",
+      organization: "Western University",
     }
   - {
-      name: UX & UI Designer,
+      name: Software Developer Intern,
       icon: "icon-2.png",
-      date: "Mar 2009 - Aug 2014",
-      organization: "AUGMEDIX",
+      date: "Sept. 2021 - April 2022",
+      organization: "CheaprEats",
     }
-  - {
-      name: Senior UI Designer,
-      icon: "icon-3.png",
-      date: "Sep 2014 - Present",
-      organization: "THEMEFISHER",
-    }
-
+ 
 #-------------------------------
 # Education Section
 
