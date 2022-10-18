@@ -118,19 +118,19 @@ experience:
 # Portfolio Home Section
 portfolio-home-items:
   - image: "assets/images/portfolio/mirror.png"
-    url: "#"
+    url: "https://github.com/ByronChung/Raspberry-Pi-Interactive-Mirror"
 
   - image: "assets/images/portfolio/presence.png"
-    url: "#"
+    url: "https://github.com/ByronChung/Presence"
 
   - image: "assets/images/portfolio/pathfinder.png"
-    url: "#"
+    url: "https://github.com/ByronChung/Pathfinding-Visualizer"
 
   - image: "assets/images/portfolio/forest_guardian.png"
-    url: "#"
+    url: "https://github.com/ByronChung/Forest-Guardian-Game"
 
   - image: "assets/images/portfolio/country_statistics.png"
-    url: "#"
+    url: "https://github.com/ByronChung/Country-Statistics"
 
 # Portfolio Page
 portfolio-label:
