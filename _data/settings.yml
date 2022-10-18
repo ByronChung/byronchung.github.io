@@ -89,13 +89,13 @@ experience-title: Experience
 experience:
   - {
       name: Software Developer Intern,
-      icon: "icon-1.png",
+      icon: "UWO.png",
       date: "May 2022 - Aug. 2022",
       organization: "Western University",
     }
   - {
       name: Software Developer Intern,
-      icon: "icon-2.png",
+      icon: "CheaprEats.png",
       date: "Sept. 2021 - April 2022",
       organization: "CheaprEats",
     }
