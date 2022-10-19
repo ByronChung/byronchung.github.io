@@ -3,6 +3,7 @@ layout: about
 title: About Me
 author: Byron Chung
 image: assets/images/about/me.png
+signature: 
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
