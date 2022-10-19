@@ -55,7 +55,7 @@ work-process:
     content: "[Click Here](https://github.com/ByronChung)"
 
   - title: "LinkedIn"
-    icon: "assets/images/icons/linkedin.png"
+    icon: "assets/images/icons/linked.png"
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     
 # My Team Section
