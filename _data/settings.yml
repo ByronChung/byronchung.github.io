@@ -13,8 +13,6 @@ copyright: Copyright &copy; 2022 Byron Chung
 
 menu:
   - { name: About, link: "/about" }
-  - { name: Portfolio, link: "/portfolio" }
-  - { name: Contact, link: "/contact" }
 
 #-------------------------------
 # Google Analytics Section
