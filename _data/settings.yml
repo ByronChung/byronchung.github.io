@@ -57,11 +57,7 @@ work-process:
   - title: "LinkedIn"
     icon: "assets/images/icons/linkedin.png"
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
-  - title: "Deliver"
-    icon: "assets/images/icons/print.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
+    
 # My Team Section
 
 #-------------------------------
